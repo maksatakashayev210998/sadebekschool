@@ -1383,8 +1383,11 @@ b{
 	}
     .login-block {
         padding: 50px 0;
-        background: url("../img/fonm.png") no-repeat center/cover;
-        height: 948px;
+        background: url(../img/logo.jpg) no-repeat;
+        background-color: #000;
+        background-size: 85%;
+        background-position: 40% 95%;
+        height: 1000px;
     }
     .forma input {
         height: 50px!important;
